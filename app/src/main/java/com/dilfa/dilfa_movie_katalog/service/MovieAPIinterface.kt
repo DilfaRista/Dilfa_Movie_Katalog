@@ -1,5 +1,6 @@
 package com.dilfa.dilfa_movie_katalog.service
 
+import com.dilfa.dilfa_movie_katalog.model.MovieResponse
 import retrofit2.Call
 import retrofit2.http.GET
 
